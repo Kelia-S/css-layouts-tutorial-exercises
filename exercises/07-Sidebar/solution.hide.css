@@ -5,10 +5,10 @@
 	background: grey;
 }
 #sidebar {
-	background: grey;
 	width: 30%;
+	background-color: grey;
 }
 #content {
-	background: green;
 	width: 70%;
+	background-color: green;
 }
